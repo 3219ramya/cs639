@@ -1,0 +1,5 @@
+git add (folder_name)
+
+git commit -m ""
+
+git push
